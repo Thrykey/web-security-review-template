@@ -76,7 +76,7 @@ Kategorie `A01–A10` pochodzą z OWASP Top 10:2025, a `API1–API10` z OWASP AP
 
 | Lp. | Scenariusz testu | Odniesienia | Status | Wynik | Dowód | Priorytet |
 |-----|------------------|-------------|--------|-------|-------|-----------|
-| 3.1 | Ponowne użycie kodu zaproszenia oraz jego wygasanie; sprawdź, które operacje zużywają limit użyć (czy także logowanie istniejących kont). | A06 · A07 · CWE-362 | | | | |
+| 3.1 | Ponowne użycie kodu zaproszenia oraz jego wygasanie; sprawdź, które operacje zużywają limit użyć (czy także logowanie istniejących kont). | A07 · A06 · CWE-613 | | | | |
 | 3.2 | Nieprzewidywalność kodu: wygeneruj kilka obok siebie i porównaj. | A04 · A07 · CWE-330 | | | | |
 | 3.3 | Podmiana roli w body rejestracji przy zaproszeniu na niższą rolę. | A06 · A01 · API3 · CWE-269 | | | | |
 | 3.4 | Zwykły użytkownik nie może generować zaproszeń (oczekiwane 403). | A01 · API5 · CWE-862 | | | | |
